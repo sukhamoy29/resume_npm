@@ -1,6 +1,6 @@
 {
   "name": "resume-sukhamoy-roy",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "type": "module",
   "description": "Resume for Sukhamoy Roy — run with npx",
   "bin": {
