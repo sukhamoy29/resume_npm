@@ -44,7 +44,7 @@ const projects = [
   
   "Technology: Python, FastAPI, HTML5, Tailwind CSS, JavaScript, React, MySQL",
 
-  `Repository: ${link("Demo View", "https://medi-hub-three.vercel.app/")}`,
+  `${link("Live View", "https://medi-hub-three.vercel.app/")}`,
   "",
   chalk.bold("MediBot:"),
   "Appointment Booking System integrating Google Calendar.",
