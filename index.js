@@ -3,14 +3,14 @@ import boxen from "boxen";
 
 const link = (text, url) => `\u001b]8;;${url}\u0007${text}\u001b]8;;\u0007`;
 
-const name = "SUKHAMOY ROY";
-const title = "Python Developer | Full Stack Expert";
-const location = "Paschim Midnapore, West Bengal, 721122";
-const phone = "8972188626 / 7810916597";
-const email = "sukhamoy29roy@gmail.com";
-const linkedin = "https://www.linkedin.com/in/sukhamoy-roy-819346243";
-const github = "https://github.com/sukhamoy29";
-const portfolio = "https://sukhamoy-portfolio.vercel.app/";
+const name = "####";
+const title = "####";
+const location = "####";
+const phone = "###";
+const email = "####";
+const linkedin = "#####";
+const github = "####";
+const portfolio = "#######";
 
 const objective =
   "backend-heavy Full-Stack Expert. Ready to take my career to the next level and currently seeking new opportunities.";
