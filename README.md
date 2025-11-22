@@ -24,10 +24,10 @@ npx @sukhamoy-roy-819346243
 - **Title**: Python Developer | Full Stack Expert
 - **Location**: Paschim Midnapore, West Bengal, 721122
 - **Phone**: 8972188626 / 7810916597
-- **Email**: [sukhamoy29roy@gmail.com](mailto:sukhamoy29roy@gmail.com)
-- **LinkedIn**: [Sukhamoy Roy](https://www.linkedin.com/in/sukhamoy-roy-819346243)
-- **GitHub**: [sukhamoy29](https://github.com/sukhamoy29)
-- **Portfolio**: [sukhamoy-portfolio.vercel.app](https://sukhamoy-portfolio.vercel.app/)
+- **Email**: 
+- **LinkedIn**: 
+- **GitHub**:
+- **Portfolio**: 
 
 ### Objective
 
