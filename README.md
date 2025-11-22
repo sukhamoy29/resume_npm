@@ -20,10 +20,10 @@ npx @sukhamoy-roy-819346243
 
 ### Personal Information
 
-- **Name**: Sukhamoy Roy
-- **Title**: Python Developer | Full Stack Expert
-- **Location**: Paschim Midnapore, West Bengal, 721122
-- **Phone**: 8972188626 / 7810916597
+- **Name**: 
+- **Title**:
+- **Location**:
+- **Phone**: 
 - **Email**: 
 - **LinkedIn**: 
 - **GitHub**:
